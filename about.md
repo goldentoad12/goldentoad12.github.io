@@ -7,20 +7,19 @@ permalink: /about/
 This is where you talk about your background, research, and interests.
 
 ---
-## Education
----
+### Education
 
-### Master of Science: Environmental Science
+#### Master of Science: Environmental Science
 Christopher Newport Unviversity; Newport News, Virginia
 
 ---
 
-### Bachelor of Science: Cellular, Molecular, and Physical Biology
+#### Bachelor of Science: Cellular, Molecular, and Physical Biology
 Christopher Newport University; Newport News, Virginia
 
 ---
 
-### Associate of Science: Social Sciences
+#### Associate of Science: Social Sciences
 Thomas Nelson Community College; Newport News, Virginia
 
 ---
