@@ -8,3 +8,11 @@ plugins:
 
 header:
   nav: main
+
+collections:
+  projectsgis:
+    output: true
+
+collections:
+  projectsarduino:
+    output: true
