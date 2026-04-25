@@ -2,7 +2,7 @@
 title: "Simon Says Game"
 date: 2024-09-16
 layout: single
-classes: wide
+classes: narrow
 ---
 
 ## Overview
