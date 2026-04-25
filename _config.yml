@@ -14,3 +14,17 @@ collections:
     output: true
   projectsarduino:
     output: true
+
+author:
+  name: "Matthew Freeman"
+  avatar: "/images/bio-photo.jpg"
+  bio: "My personal website"
+
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/matthew-damon-freeman"
+
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "matthewfreeman12345@yahoo.com"
