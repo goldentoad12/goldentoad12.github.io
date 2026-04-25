@@ -6,4 +6,4 @@ permalink: /projectsgis/
 
 ## My Work
 
-- [example](/projectsgis/example/)
+- [Example](/projectsgis/example/)
