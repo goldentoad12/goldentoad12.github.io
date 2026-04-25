@@ -9,13 +9,16 @@ Description: The first project that I workd on measuring reaction times using a 
 For my first coding assignment for my arduino class, my professor wanted us to design a simple game using a button and an led that would allow us to test for human reaction times. 
 
 ## Parts Used
-Results go here
+Parts Used go here
 
 ## Code
-Tools Used go here
+<script src="https://gist.github.com/goldentoad12/5c2e668786754ca06523300da692564c.js"></script>
+
+Download Code Here:
+[Download Arduino Code](code/simon_game.ino)
 
 ## Summary
-Visuals go here
+Summary Goes here
 
 ### Simon Says Game
 The first project that I workd on measuring reaction times using a game. 
