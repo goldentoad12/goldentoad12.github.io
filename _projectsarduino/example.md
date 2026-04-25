@@ -8,17 +8,12 @@ Description: This is a template for how I want my Arduino projects to be structu
 ## Overview
 Overview goes here
 
-## Objectives
-Objectives go here
-
-## Methods
-Methods go here
-
-## Results
+## Parts Used
 Results go here
 
-## Tools Used
+## Code
 Tools Used go here
 
-## Visuals
+## Summary
 Visuals go here
+
