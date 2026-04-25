@@ -4,4 +4,6 @@ title: "GIS Projects"
 permalink: /projectsgis/
 ---
 
-Add gis projects here
+## My Work
+
+- [example](/projectsgis/example/)
