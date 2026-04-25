@@ -16,3 +16,6 @@ collections:
 collections:
   projectsarduino:
     output: true
+    
+home:
+  show_posts: false
