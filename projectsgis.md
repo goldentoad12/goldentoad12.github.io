@@ -4,8 +4,6 @@ title: "GIS Projects"
 permalink: /projectsgis/
 ---
 
-## My Work
-
 ### Example Description Section
 Im testing how I want to set up this page for further use
 
