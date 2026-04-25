@@ -8,6 +8,6 @@ permalink: /projectsarduino/
 The first project that I workd on measuring reaction times using a game. 
 
 **Tools:** Arduino, SEEED Studio parts
-- [1st Project](/projectsarduino/simon/)
+- [Simon Says Game](/projectsarduino/simon/)
 
 ---
