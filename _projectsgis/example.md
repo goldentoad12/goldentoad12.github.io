@@ -5,6 +5,8 @@ layout: single
 permalink: /projectsgis/example/
 ---
 
+Description: This is a template for how I want my GIS projects to be structured.
+
 ## Overview
 Overview goes here
 
