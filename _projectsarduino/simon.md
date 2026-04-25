@@ -1,5 +1,5 @@
 ---
-title: "Simon Says Game (sorta)"
+title: "Simon Says Game"
 date: 2024-09-16
 ---
 
