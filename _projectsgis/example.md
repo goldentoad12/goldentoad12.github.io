@@ -28,8 +28,7 @@ Visuals go here
 
 PLACE THIS CODE INTO THE projectsgis.md FILE
 
-### Example Description Section
-[Example]({{ "/projectsarduino/example/" | relative_url }})
+### [Example]({{ "/projectsarduino/example/" | relative_url }})
 Description: This is a template for how I want my GIS projects to be structured.
 
 **Tools:** ArcGIS, GPS data, environmental sampling  
