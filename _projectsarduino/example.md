@@ -2,7 +2,7 @@
 title: "Example Arduino"
 date: 2020-04-20
 layout: single
-classes: wide
+classes: narrow
 ---
 
 ## Overview
