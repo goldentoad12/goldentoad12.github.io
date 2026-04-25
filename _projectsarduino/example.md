@@ -17,3 +17,13 @@ Tools Used go here
 ## Summary
 Visuals go here
 
+
+PLACE THIS INTO THE projectsarduino.md FILE
+
+### Example Description Section
+Im testing how I want to set up this page for further use
+
+**Tools:** Arduino, SEEED Studio parts
+- [Example](/projectsarduino/example/)
+
+---
