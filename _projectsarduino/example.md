@@ -3,17 +3,15 @@ title: "Example Arduino"
 date: 2020-04-20
 ---
 
-Description: This is a template for how I want my Arduino projects to be structured.
-
 ## Overview
 Overview goes here
-<img src="/images/example_design.png" style="width:600px; height:auto;">
 
 ## Parts Used
 Parts Used goes here
 
 ## Design Layout
 Put Picture of design layout here
+<img src="/images/example_design.png" style="width:600px; height:auto;">
 
 ## Code
 go to https://gist.github.com/ and type in code to get a link like this:
@@ -31,7 +29,7 @@ PLACE THIS INTO THE projectsarduino.md FILE
 
 ### Example Description Section
 [Example]({{ "/projectsarduino/example/" | relative_url }})
--Im testing how I want to set up this page for further use
+Description: This is a template for how I want my Arduino projects to be structured.
 
 **Tools:** Arduino, SEEED Studio parts
 
