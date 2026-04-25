@@ -3,6 +3,8 @@ layout: home
 author_profile: true
 ---
 
+Welcome to my site!
+
 <h2>Recent Projects</h2>
 
 {% assign all_projects = site.projectsgis | concat: site.projectsarduino | sort: "date" | reverse %}
