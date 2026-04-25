@@ -12,8 +12,10 @@ header:
 collections:
   projectsgis:
     output: true
+    permalink: /projectsgis/:name/
   projectsarduino:
     output: true
+    permalink: /projectsarduino/:name/
 
 author:
   name: "Matthew Freeman"
