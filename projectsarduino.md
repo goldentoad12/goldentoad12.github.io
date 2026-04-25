@@ -5,8 +5,8 @@ permalink: /projectsarduino/
 ---
 
 ### Simon Says Game
-- [Simon Says Game](/projectsarduino/simon/)
-The first project that I workd on measuring reaction times using a game. 
+[Simon Says Game]({{ "/projectsarduino/simon/" | relative_url }})
+-The first project that I workd on measuring reaction times using a game. 
 **Tools:** Arduino, SEEED Studio parts
 
 ---
