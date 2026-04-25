@@ -1,7 +1,7 @@
 ---
 title: "Example GIS Analysis"
-layout: single
 date: 2026-04-20
+layout: single
 permalink: /projectsgis/example/
 ---
 
