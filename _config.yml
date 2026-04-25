@@ -12,10 +12,5 @@ header:
 collections:
   projectsgis:
     output: true
-
-collections:
   projectsarduino:
     output: true
-    
-home:
-  show_posts: false
