@@ -2,7 +2,7 @@
 title: "Example GIS Analysis"
 date: 2020-04-20
 layout: single
-classes: wide
+classes: narrow
 ---
 
 Description: This is a template for how I want my GIS projects to be structured.
