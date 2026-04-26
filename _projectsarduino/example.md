@@ -32,6 +32,7 @@ Summary Goes Here
 PLACE THIS INTO THE projectsarduino.md FILE
 
 ### [Example]({{ "/projectsarduino/example/" | relative_url }})
+
 Description: This is a template for how I want my Arduino projects to be structured.
 
 **Tools:** Arduino, SEEED Studio parts
