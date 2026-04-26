@@ -8,9 +8,6 @@ plugins:
 
 minimal_mistakes_skin: "custom"
 
-header:
-  nav: main
-
 collections:
   projectsgis:
     output: true
@@ -25,12 +22,10 @@ author:
   name: "Matthew Freeman"
   avatar: "/images/bio-photo.jpg"
   bio: "My personal website for displaying my skills"
-
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/matthew-damon-freeman"
-
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:matthewfreeman12345@yahoo.com"
