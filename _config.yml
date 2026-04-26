@@ -9,9 +9,6 @@ plugins:
 header:
   nav: main
 
-include:
-  - "*.ino"
-
 collections:
   projectsgis:
     output: true
