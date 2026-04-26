@@ -21,7 +21,7 @@ For this project, my professor wanted us to take the knowledge that we had gaine
 <img src="/images/morse_code_design.png" style="width:600px; height:auto;">
 
 ## Code
-<script src="https://gist.github.com/goldentoad12/15df3237d0ae0f2dcaad675deadbf197.js"></script>
+<script src="https://gist.github.com/matthew-d-freeman/15df3237d0ae0f2dcaad675deadbf197.js"></script>
 
 Download Arduino Code:
 [Download Arduino Code]({{ "/assets/code/morse_code.ino" | relative_url }})
