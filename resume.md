@@ -2,6 +2,8 @@
 layout: single
 title: "Resume"
 permalink: /resume/
+sidebar:
+  nav: "docs"
 ---
 
 <iframe src="/Matthew_Freeman_Resume.pdf" width="100%" height="800px">
