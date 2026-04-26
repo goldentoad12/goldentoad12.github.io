@@ -9,7 +9,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsgis/courses/' | relative_url }}">
+  <a href="{{ '/projects/gis/courses/' | relative_url }}">
     ESRI GIS Courses
   </a>
 </h3>
