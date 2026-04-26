@@ -5,13 +5,14 @@
 
 /* NAV BAR OVERRIDES */
 .masthead {
-  background-color: #1b5e20 !important; /* dark green */
+  background-color: #1b5e20 !important;
 }
 
-.masthead__menu a {
+.masthead a,
+.greedy-nav a {
   color: white !important;
 }
 
-.masthead__menu a:hover {
-  color: #c8e6c9 !important; /* light green hover (optional) */
+.greedy-nav .visible-links a {
+  color: white !important;
 }
