@@ -11,3 +11,17 @@ main:
     url: /publications/
   - title: "Resume"
     url: /resume/
+
+docs:
+  - title: Navigation
+    children:
+      - title: "About Me"
+        url: /about/
+      - title: "GIS Projects"
+        url: /projectsgis/
+      - title: "Arduino Projects"
+        url: /projectsarduino/
+      - title: "Publications"
+        url: /publications/
+      - title: "Resume"
+        url: /resume/
