@@ -16,6 +16,11 @@ feature_row:
     alt: "ArcGIS"
     title: "ArcGIS"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+  - image_path: /images/publication.jpg
+    alt: "Publications"
+    title: "Publications"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 Welcome! This site will contain the following, an about me, my GIS and Arduino projects, my current academic publications, and an up to date resume. Use the navigation bar at the top of the screen to view everything. 
