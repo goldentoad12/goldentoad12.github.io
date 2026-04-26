@@ -4,6 +4,8 @@ layout: single
 classes: narrow
 ---
 
+<!--more-->
+
 #GIS Courses
 Below is the list of completed courses recieved for GIS ESRI training assesments
 
