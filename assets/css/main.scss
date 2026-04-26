@@ -113,26 +113,3 @@ p  { line-height: 1.6; }
   transform: translateY(-5px);
   box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
-
-.home-layout {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 2rem;
-  align-items: start;
-}
-
-.sidebar {
-  position: sticky;
-  top: 100px;
-}
-
-/* mobile fallback */
-@media (max-width: 900px) {
-  .home-layout {
-    grid-template-columns: 1fr;
-  }
-
-  .sidebar {
-    position: static;
-  }
-}
