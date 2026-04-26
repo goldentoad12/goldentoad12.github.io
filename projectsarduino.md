@@ -6,14 +6,17 @@ permalink: /projectsarduino/
 
 <div class="project-card">
 
-### [Simon Says Game]({{ "/projectsarduino/simon/" | relative_url }})
+<h3>
+  <a href="{{ '/projectsarduino/simon/' | relative_url }}">
+    Simon Says Game
+  </a>
+</h3>
 
-The first project that I worked on measuring reaction times using a game.  
+<p>The first project that I worked on measuring reaction times using a game.</p>
 
-**Tools:** Arduino, SEEED Studio parts
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts</p>
 
 </div>
-
 ---
 
 <div class="project-card">
