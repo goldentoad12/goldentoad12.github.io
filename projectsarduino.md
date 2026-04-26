@@ -19,3 +19,11 @@ Write my name in morse code using a blinking LED.
 **Tools:** Arduino, SEEED Studio parts
 
 ---
+
+### [Musical LEDs]({{ "/projectsarduino/music/" | relative_url }})
+
+Lighting up LEDs based on how loud a song is.
+
+**Tools:** Arduino, SEEED Studio parts
+
+---
