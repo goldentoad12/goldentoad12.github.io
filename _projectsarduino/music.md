@@ -12,7 +12,11 @@ For this assignment, we were tasked to use a sound sensor and a series of LEDs t
 
 ## Parts Used
 - Arduino Uno
-- 
+- 6 LEDs
+- 6 Resistors (resistance dependent on LED used)
+- 1 Sound Sensor
+- Breadboard
+- Wires
 
 ## Design Layout
 Put Picture of design layout here
