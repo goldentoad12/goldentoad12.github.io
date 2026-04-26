@@ -18,7 +18,7 @@ For this project, my professor wanted us to take the knowledge that we had gaine
 - Wires
 
 ## Design Layout
-<img src="/images/morse_code_design.png" style="width:600px; height:auto;">
+<img src="/images/morse_code_design.png" style="width:auto; height:auto;">
 
 ## Code
 <script src="https://gist.github.com/matthew-d-freeman/15df3237d0ae0f2dcaad675deadbf197.js"></script>
