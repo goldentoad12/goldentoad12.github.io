@@ -26,3 +26,24 @@ $link-color-hover: #145a18;
 .site-title {
   color: #1b5e20 !important;
 }
+
+.archive__item {
+  border: 1px solid #1b5e20;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  transition: all 0.2s ease-in-out;
+}
+
+.archive__item:hover {
+  box-shadow: 0 4px 12px rgba(27, 94, 32, 0.2);
+  transform: translateY(-2px);
+}
+
+.archive__item-title a {
+  color: #1b5e20 !important;
+}
+
+.archive__item-title a:hover {
+  color: #145a18 !important;
+}
