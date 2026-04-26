@@ -19,6 +19,9 @@ collections:
 
 excerpt_separator: <!--more-->
 
+extra_css:
+  - /assets/css/custom.css
+
 author:
   name: "Matthew Freeman"
   avatar: "/images/bio-photo.jpg"
