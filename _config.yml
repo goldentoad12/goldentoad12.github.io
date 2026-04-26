@@ -19,8 +19,6 @@ collections:
 
 excerpt_separator: <!--more-->
 
-minimal_mistakes_skin: "custom"
-
 author:
   name: "Matthew Freeman"
   avatar: "/images/bio-photo.jpg"
