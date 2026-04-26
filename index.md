@@ -3,17 +3,29 @@ layout: single
 ---
 
 <style>
-/* =========================
-   NAV BAR
-========================= */
-.masthead {
+/* FULL NAV BAR BACKGROUND */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
   background-color: #1b5e20 !important;
 }
 
-.masthead a {
+/* REMOVE WHITE BOX EFFECT */
+.greedy-nav {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* NAV TEXT */
+.greedy-nav a {
   color: white !important;
 }
 
+/* HAMBURGER MENU (mobile) */
+.greedy-nav__toggle {
+  color: white !important;
+  background: transparent !important;
+}
 /* =========================
    GLOBAL LINK STYLE
 ========================= */
