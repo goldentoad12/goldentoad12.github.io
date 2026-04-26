@@ -6,10 +6,15 @@ permalink: /projectsgis/
 
 <div class="project-card">
 
-### [ESRI GIS Courses]({{ "/projectsgis/courses/" | relative_url }})
+<h3>
+  <a href="{{ '/projectsarduino/courses/' | relative_url }}">
+    ESRI GIS Courses
+  </a>
+</h3>
 
-List of completed courses taken on the ESRI Academy Website
+<p>List of completed courses taken on the ESRI Academy Website.</p>
 
-**Tools:** ESRI Academy, ArcGIS
+<p><strong>Tools:</strong> ESRI Academy, ArcGIS</p>
 
 </div>
+---
