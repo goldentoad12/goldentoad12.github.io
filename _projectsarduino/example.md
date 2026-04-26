@@ -30,10 +30,17 @@ Summary Goes Here
 
 PLACE THIS INTO THE projectsarduino.md FILE
 
-### [Example]({{ "/projectsarduino/example/" | relative_url }})
+<div class="project-card">
 
-Description: This is a template for how I want my Arduino projects to be structured.
+<h3>
+  <a href="{{ '/projectsarduino/example/' | relative_url }}">
+    Example
+  </a>
+</h3>
 
-**Tools:** Arduino, SEEED Studio parts
+<p>Example Description.</p>
 
+<p><strong>Tools:</strong> Example</p>
+
+</div>
 ---
