@@ -39,15 +39,21 @@ Download Arduino Code:
 [Download Arduino Code]({{ "/assets/code/music_noif.ino" | relative_url }})
 
 ## Summary
-Summary Goes Here
-
----
-
-PLACE THIS INTO THE projectsarduino.md FILE
-
-### [Musical LEDs]({{ "/projectsarduino/music/" | relative_url }})
-Lighting up LEDs based on how loud a song is.
-
-**Tools:** Arduino, SEEED Studio parts
+So for my code I started practicing using arrays. I set up my pin numbers as an array and the “loudness”
+parameters as an array as well. Then for my setup I initialized the sound sensors and used a for() function
+in order to initialize my array of pins. I did this by having it start at 0 and count up until it is one below
+the number of pins using. Then for each count it digitally wrote those pins at being outputs. I used this
+same method to create a command I called turnOff() which I can use to turn all the LEDs off at once and
+save me some code space. For my IF, ELSE IF, function all I did was have the parameter check the sound
+sensor output and see if it was lower than the loudness array parameter I had set up earlier. This ensure
+that any LED below the given loudness would turn on. At the beginning of my loop I put my turnOff()
+command to reset everything and initialized how I wanted the sensor value to be read and printed in the
+serial monitor. The biggest problem I had with this code is getting the loudness parameters how I liked it
+and making the LEDs look less flickery. I added delays in the loop to try and cut down on the flicker and
+that somewhat worked. The biggest issue here is that the sound sensor spits out data inconsistently
+sometimes jumping from 0 to 700 counts in a single second. I assume this is just due to the quality of the
+microphone used. I had experimented with averaging a set amount of incoming signals and using that
+average as my parameter against the loudness however the result didn’t change the outcome much so I
+decided to scrap it.
 
 ---
