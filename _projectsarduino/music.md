@@ -3,6 +3,8 @@ title: "Musical LEDs"
 date: 2024-09-22
 layout: single
 classes: narrow
+sidebar:
+  nav: "docs"
 ---
 
 <!--more-->
