@@ -22,7 +22,7 @@ For my first coding assignment for my arduino class, my professor wanted us to d
 <img src="/images/simon_game_design.png" style="width:600px; height:auto;">
 
 ## Code
-<script src="https://gist.github.com/goldentoad12/5c2e668786754ca06523300da692564c.js"></script>
+<script src="https://gist.github.com/matthew-d-freeman/5c2e668786754ca06523300da692564c.js"></script>
 
 Download Code Here:
 [Download Arduino Code]({{ "/assets/code/simon_game.ino" | relative_url }})
