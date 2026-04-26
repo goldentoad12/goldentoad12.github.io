@@ -8,6 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 
 // Theme settings (override BEFORE main import)
+$primary-color: #1b5e20;
 $link-color: #1b5e20;
 $link-color-hover: #145a18;
 
