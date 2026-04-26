@@ -9,7 +9,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/simon/' | relative_url }}">
+  <a href="{{ '/projects/arduino/simon/' | relative_url }}">
     Simon Says Game
   </a>
 </h3>
@@ -24,7 +24,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/morsecode/' | relative_url }}">
+  <a href="{{ '/projects/arduino/morsecode/' | relative_url }}">
     Morse Code Name
   </a>
 </h3>
@@ -39,7 +39,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/music/' | relative_url }}">
+  <a href="{{ '/projects/arduino/music/' | relative_url }}">
     Musical LEDs
   </a>
 </h3>
@@ -54,7 +54,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/temperature/' | relative_url }}">
+  <a href="{{ '/projects/arduino/temperature/' | relative_url }}">
     Temperature and SD Card
   </a>
 </h3>
@@ -69,7 +69,7 @@ sidebar:
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/environmental/' | relative_url }}">
+  <a href="{{ '/projects/arduino/environmental/' | relative_url }}">
     Environmental Tester
   </a>
 </h3>
