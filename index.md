@@ -12,12 +12,14 @@ Welcome! This site will contain the following, an about me, my GIS and Arduino p
 
 {% assign all_projects = site.projectsgis | concat: site.projectsarduino | sort: "date" | reverse %}
 
-<ul class="project-cards">
+<div class="project-gallery">
   {% for project in all_projects limit: 5 %}
-  <li class="project-card">
-    <a href="{{ project.url }}">{{ project.title }}</a><br>
-    <small>{{ project.date | date: "%b %d, %Y" }}</small>
-    <p>{{ project.excerpt }}</p>
-  </li>
+  <a class="project-tile" href="{{ project.url }}">
+    <div class="project-tile-content">
+      <h3>{{ project.title }}</h3>
+      <small>{{ project.date | date: "%b %d, %Y" }}</small>
+      <p>{{ project.excerpt }}</p>
+    </div>
+  </a>
   {% endfor %}
-</ul>
+</div>
