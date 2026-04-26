@@ -1,8 +1,7 @@
 --- 
 title: "Home"
 layout: single
-sidebar:
-  nav: "main"
+classes: wide
 header:
   image: /images/header.jpg
   show_overlay_excerpt: true
