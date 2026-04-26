@@ -24,7 +24,7 @@ For this assignment, we were tasked to use a sound sensor and a series of LEDs t
 ## Code
 ### If/Else Statements Allowed
 
-<script src="https://gist.github.com/goldentoad12/ed2f64ee186fbea2048ecc384199ef13.js"></script>
+<script src="https://gist.github.com/matthew-d-freeman/ed2f64ee186fbea2048ecc384199ef13.js"></script>
 
 Download Arduino Code:
 [Download Arduino Code]({{ "/assets/code/music_if.ino" | relative_url }})
