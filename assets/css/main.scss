@@ -3,7 +3,18 @@
 
 @import "minimal-mistakes";
 
-/* Your custom styles below */
 a {
   color: #1b5e20;
+}
+
+a:hover {
+  color: #2e7d32;
+}
+
+h1, h2, h3 {
+  color: #1b5e20;
+}
+
+body {
+  background-color: #f9fbf9;
 }
