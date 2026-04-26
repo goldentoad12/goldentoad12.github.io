@@ -14,6 +14,7 @@ For this project, I was tasked to design a system that could read the temperatur
 - Arduino Uno
 - Temperature & Humidity Sensor (DHT11)
 - Seeed Studio SD Card Shield V4
+- Wires
 
 ## Design Layout
 
@@ -35,16 +36,7 @@ Download RStudio Code:
 [Download RStudio Code]({{ "/assets/code/temperature.R" | relative_url }})
 
 ## Summary
-Summary Goes Here
 
----
-
-PLACE THIS INTO THE projectsarduino.md FILE
-
-### [Temperature and SD Card]({{ "/projectsarduino/temperature/" | relative_url }})
-
-Using an SD card to save temperature readings.
-
-**Tools:** Arduino, SEEED Studio parts, RStudio
+This project went well except for trying to use the SD card I culdn't get it to work at first no matter what I did. I had to unisntall the Arduino IDE and reinstall it for it to finally work. Other than that, the temprature readings and commiting them to a file worked properly.
 
 ---
