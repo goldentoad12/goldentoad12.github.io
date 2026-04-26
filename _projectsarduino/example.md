@@ -3,6 +3,8 @@ title: "Example Arduino"
 date: 2020-04-20
 layout: single
 classes: narrow
+sidebar:
+  nav: "docs"
 ---
 
 <!--more-->
