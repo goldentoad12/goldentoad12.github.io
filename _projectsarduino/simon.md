@@ -24,8 +24,7 @@ For my first coding assignment for my arduino class, my professor wanted us to d
 ## Code
 <script src="https://gist.github.com/matthew-d-freeman/5c2e668786754ca06523300da692564c.js"></script>
 
-Download Code Here:
-[Download Arduino Code]({{ "/assets/code/simon_game.ino" | relative_url }})
+*[Download Arduino Code]({{ "/assets/code/simon_game.ino" | relative_url }})*
 
 ## Summary
 The first part of my code is initializing the different integers that I want to use specifically the led, button, start time, end time, and reaction time, as well as creating a timer and a reset timer that the game clock can be based on. Next I did my void setup where I defined the pins the button and led will be at. Furthermore I initialized the button as high so that when I press it there can be a detectable state of the buttons signal being lowered. Lastly in my setup I began the serial monitor in order to have a readout written there later on. In my loop I started by initializing the led as high for a delayed amount of time then to turn it low and start a timer. I then sent up a while command to hold the code there as long as my button remained in a high signal state. When the button was pressed and the signal was set to a low state, the timer would end and the time taken between the led turning off and the button being pressed would be calculated. The result of this calculation would then be printed in the serial monitor and the delay timer would begin before the loop would continue. 
