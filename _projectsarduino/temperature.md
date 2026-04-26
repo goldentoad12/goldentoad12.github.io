@@ -3,6 +3,8 @@ title: "Temperature and SD Card"
 date: 2024-10-9
 layout: single
 classes: narrow
+sidebar:
+  nav: "docs"
 ---
 
 <!--more-->
