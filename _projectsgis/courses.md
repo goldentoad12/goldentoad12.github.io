@@ -1,5 +1,5 @@
 ---
-title: "Courses"
+title: "ESRI GIS Courses"
 layout: single
 classes: narrow
 ---
