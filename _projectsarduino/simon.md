@@ -15,6 +15,8 @@ For my first coding assignment for my arduino class, my professor wanted us to d
 - 1 LED
 - 1 Resistor (resistance dependent on LED used)
 - 1 Button
+- Breadboard
+- Wires
 
 ## Design Layout
 <img src="/images/simon_game_design.png" style="width:600px; height:auto;">
