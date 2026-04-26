@@ -5,7 +5,11 @@ title: "About Me"
 permalink: /about/
 ---
 
-*NEED TO UPDATE SOON*
+I’m Matthew Freeman, an environmental science researcher with a strong interest in sustainable energy and ecosystem restoration. My work focuses on exploring hydrogen as a viable alternative fuel source, with an emphasis on improving storage methods and reducing production costs.
+
+Alongside my energy research, I serve as a lead researcher in a wetland restoration project where I work with students to study the impacts of rising sea levels on coastal ecosystems. This includes collecting vegetation samples, estimating carbon storage using biomass data, and analyzing how environmental changes affect plant and animal communities. Through this work, I also help mentor students and communicate scientific findings through presentations and outreach.
+
+I’m passionate about applying science and technology to solve real-world environmental challenges and am always looking for opportunities to learn, collaborate, and make a meaningful impact.
 
 ---
 ## Education
