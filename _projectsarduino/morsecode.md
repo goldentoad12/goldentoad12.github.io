@@ -3,6 +3,8 @@ title: "Morse Code Name"
 date: 2024-09-18
 layout: single
 classes: narrow
+sidebar:
+  nav: "docs"
 ---
 
 <!--more-->
