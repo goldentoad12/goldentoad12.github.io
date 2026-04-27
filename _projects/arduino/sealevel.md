@@ -19,6 +19,8 @@ Parts Used goes here
 Put Picture of design layout here
 <img src="/assets/images/example_design.png" style="width:auto; height:auto;">
 
+*[Download Schematic]({{ "/assets/pdf/sealevel.pdf" | relative_url }})*
+
 ## Code
 
 <script src="https://gist.github.com/matthew-d-freeman/3f6a39d138504feaf8b325ea1a02bf31.js"></script>
