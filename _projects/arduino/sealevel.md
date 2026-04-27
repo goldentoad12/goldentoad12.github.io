@@ -10,10 +10,11 @@ sidebar:
 <!--more-->
 
 ## Overview
-Overview goes here
+Climate change has altered the environment we live in from global temperatures to sea levels rising. Tracking the levels in which this is happening is very important if we wish to target and combat the effects. The problem that arises is that traditional data loggers designed to track various weather conditions and tide levels are expensive. This means that less sensors are able to be implemented and less data is collected from affected areas. This lack of data has large, longterm implications on our knowledge of what is happening. This project aims to make cheap and simple data loggers that can help solve this gap in data collection.
 
 ## Parts Used
-Parts Used goes here
+- Arduino Uno
+- DHT22
 
 ## Design Layout
 
