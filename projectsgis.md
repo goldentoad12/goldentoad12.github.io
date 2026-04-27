@@ -5,8 +5,6 @@ sidebar:
   nav: "docs"
 ---
 
-# GIS Projects
-
 <div class="project-card">
 
 <h3>
