@@ -27,7 +27,7 @@ For this assignment I was allowed to design and construct my own project. I was 
 ## Design Layout
 <img src="/assets/images/environmental_design.png" style="width:auto; height:auto;">
 
-*[Download Schematic Design]({{ "/assets/images/environmental_design.pdf" | relative_url }})*
+*[Download Schematic Design]({{ "/assets/pdf/environmental_design.pdf" | relative_url }})*
 
 ## Code
 <script src="https://gist.github.com/matthew-d-freeman/02ef4987cf1e496b6a97063c8e18bf4c.js"></script>
