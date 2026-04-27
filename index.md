@@ -8,18 +8,27 @@ header:
 
 feature_row:
   - image_path: /assets/images/arduino.jpg
-    alt: "Arduino"
-    title: "Arduino"
+    alt: "Arduino Projects"
+    title: "Arduino Projects"
+    url: "{{ '/projectsarduino/' | relative_url }}"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
   - image_path: /assets/images/gis.jpg
-    alt: "ArcGIS"
-    title: "ArcGIS"
+    alt: "GIS & Spatial Analysis"
+    title: "GIS & Spatial Analysis"
+    url: "{{ '/projectsgis/' | relative_url }}"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
   - image_path: /assets/images/publication.jpg
-    alt: "Publications"
-    title: "Publications"
+    alt: "Research & Publications"
+    title: "Research & Publications"
+    url: "{{ '/publications/' | relative_url }}"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     
 sidebar:
