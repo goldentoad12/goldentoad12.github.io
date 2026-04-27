@@ -1,5 +1,4 @@
 ---
-title: "ESRI GIS Courses"
 layout: single
 classes: narrow
 sidebar:
