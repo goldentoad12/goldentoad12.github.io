@@ -9,16 +9,16 @@ plugins:
 collections:
   projectsgis:
     output: true
-    permalink: /projectsgis/:name/
+    permalink: /projects/gis/:name/
   projectsarduino:
     output: true
-    permalink: /projectsarduino/:name/
+    permalink: /projects/arduino/:name/
 
 excerpt_separator: <!--more-->
 
 author:
   name: "Matthew Freeman"
-  avatar: "/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "My personal website for displaying my skills"
   links:
     - label: "LinkedIn"
