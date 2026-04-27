@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Publications"
 permalink: /publications/
 sidebar:
   nav: "docs"
 ---
+
+# Publications
 
 *Coming soon!*
