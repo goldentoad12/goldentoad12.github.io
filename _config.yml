@@ -17,6 +17,8 @@ collections:
 
 excerpt_separator: <!--more-->
 
+show_excerpts: true
+
 author:
   name: "Matthew Freeman"
   avatar: "/assets/images/bio-photo.jpg"
