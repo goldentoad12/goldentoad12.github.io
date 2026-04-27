@@ -29,7 +29,7 @@ Parts Used goes here
 
 ## Sea Level Instructable
 
-
+<iframe src="/assets/pdf/sea_level_instructable.pdf" width="100%" height="800px"></iframe>
 
 *[Download Arduino Code]({{ "/assets/pdf/sea_level_instructable.pdf" | relative_url }})*
 
@@ -38,17 +38,16 @@ Summary Goes Here
 
 ---
 
-PLACE THIS INTO THE projectsarduino.md FILE
 
 <div class="project-card">
 
 <h3>
   <a href="{{ '/projects/arduino/example/' | relative_url }}">
-    Example
+    Sea Level Logger
   </a>
 </h3>
 
-<p>Example Description.</p>
+<p>This project was to make a module to track sea level rise.</p>
 
 <p><strong>Tools:</strong> Arduino, SEEED Studio parts, Excel</p>
 
