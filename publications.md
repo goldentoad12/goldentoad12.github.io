@@ -5,6 +5,4 @@ sidebar:
   nav: "docs"
 ---
 
-# Publications
-
 *Coming soon!*
