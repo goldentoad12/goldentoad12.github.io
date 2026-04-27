@@ -16,6 +16,7 @@ Climate change has altered the environment we live in from global temperatures t
 - Arduino Uno
 - Temperature & Humidity Sensor (DHT11)
 - Seeed Studio SD Card Shield V4
+- Anemometer
 - 2 LEDs
 - 2 Resistors (resistance dependent on LED used)
 - Photoresistor
