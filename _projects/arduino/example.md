@@ -17,7 +17,7 @@ Parts Used goes here
 
 ## Design Layout
 Put Picture of design layout here
-<img src="/images/example_design.png" style="width:auto; height:auto;">
+<img src="/assets/images/example_design.png" style="width:auto; height:auto;">
 
 ## Code
 go to https://gist.github.com/ and type in code to get a link like this:
