@@ -35,7 +35,7 @@ PLACE THIS INTO THE projectsarduino.md FILE
 <div class="project-card">
 
 <h3>
-  <a href="{{ '/projectsarduino/example/' | relative_url }}">
+  <a href="{{ '/projects/arduino/example/' | relative_url }}">
     Example
   </a>
 </h3>
