@@ -4,6 +4,7 @@ layout: single
 header:
   image: /assets/images/header.jpg
   show_overlay_excerpt: true
+  overlay_filter: 0.5
   excerpt: "My goal is to turn environmental data into actionable insight for climate resilience and sustainable systems."
 
 feature_row:
