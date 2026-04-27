@@ -81,3 +81,17 @@ sidebar:
 </div>
 ---
 
+<div class="project-card">
+
+<h3>
+  <a href="{{ '/projects/arduino/sealevel/' | relative_url }}">
+    Sea Level Logger
+  </a>
+</h3>
+
+<p>This project was to make a module to track sea level rise.</p>
+
+<p><strong>Tools:</strong> Arduino, SEEED Studio parts, Excel</p>
+
+</div>
+---
