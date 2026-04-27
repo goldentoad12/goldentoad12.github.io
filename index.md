@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/arduino.jpg
     alt: "Arduino Projects"
     title: "Arduino Projects"
-    url: "{{ '/projectsarduino/' | relative_url }}"
+    url: /projectsarduino/
     btn_label: "Explore"
     btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/gis.jpg
     alt: "GIS & Spatial Analysis"
     title: "GIS & Spatial Analysis"
-    url: "{{ '/projectsgis/' | relative_url }}"
+    url: /projectsgis/
     btn_label: "Explore"
     btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/publication.jpg
     alt: "Research & Publications"
     title: "Research & Publications"
-    url: "{{ '/publications/' | relative_url }}"
+    url: /publications/
     btn_label: "Explore"
     btn_class: "btn--primary"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
