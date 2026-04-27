@@ -16,10 +16,10 @@ Overview goes here
 Parts Used goes here
 
 ## Design Layout
-Put Picture of design layout here
-<img src="/assets/images/example_design.png" style="width:auto; height:auto;">
 
-*[Download Schematic]({{ "/assets/pdf/sealevel.pdf" | relative_url }})*
+<img src="/assets/images/sealevel_design.png" style="width:auto; height:auto;">
+
+*[Download Schematic]({{ "/assets/pdf/sealevel_design.pdf" | relative_url }})*
 
 ## Code
 
