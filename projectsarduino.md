@@ -1,10 +1,11 @@
 ---
 layout: single
-title: "Arduino Projects"
 permalink: /projectsarduino/
 sidebar:
   nav: "docs"
 ---
+
+# Arduino Projects
 
 <div class="project-card">
 
