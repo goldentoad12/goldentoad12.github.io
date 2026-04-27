@@ -7,7 +7,6 @@ sidebar:
 
 <!--more-->
 
-# GIS Courses
 Below is the list of completed courses recieved for GIS ESRI training assesments
 
 ### [Getting Started with Imagery and Remote Sensing]({{ "/assets/courses/course_1.pdf" | relative_url }})
