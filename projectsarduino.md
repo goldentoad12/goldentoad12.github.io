@@ -1,4 +1,5 @@
 ---
+title: "Arduino Projects"
 layout: single
 permalink: /projectsarduino/
 sidebar:
