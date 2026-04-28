@@ -4,7 +4,8 @@ date: 2024-10-14
 layout: single
 classes: narrow
 sidebar:
-  nav: "docs2"
+  nav: "docs"
+  image: /assets/images/arduino2.jpg
   
 toc: true
 toc_label: "Table of Contents"
