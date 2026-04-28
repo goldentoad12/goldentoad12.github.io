@@ -5,7 +5,7 @@ layout: single
 classes: narrow
 sidebar:
   nav: "docs"
-  image: "/assets/images/arduino2.jpg" | relative_url
+  image: ({{ "/assets/images/arduino2.jpg" | relative_url }})
   
 toc: true
 toc_label: "Table of Contents"
