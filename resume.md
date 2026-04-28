@@ -12,3 +12,4 @@ sidebar:
 You can view or download my resume below:
 
 [Download Resume](../assets/pdf/Matthew_Freeman_Resume.pdf)
+<i class="fas fa-file-pdf"></i>
