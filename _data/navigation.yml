@@ -27,4 +27,5 @@ docs:
         url: /resume/
 
 arduino:
-  - image: /assets/images/arduino2.jpg
+  - title: "" 
+    image: /assets/images/arduino2.jpg
