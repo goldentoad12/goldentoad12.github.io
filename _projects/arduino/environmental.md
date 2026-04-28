@@ -4,7 +4,7 @@ date: 2024-10-14
 layout: single
 classes: narrow
 sidebar:
-  image: /assets/images/arduino2.jpg
+  - image: /assets/images/arduino2.jpg
 sidebar:
   nav: "docs"
   
