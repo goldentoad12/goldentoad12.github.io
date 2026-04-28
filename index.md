@@ -22,7 +22,7 @@ feature_row:
     url: /projectsarduino/
     btn_label: "Explore"
     btn_class: "btn--primary"
-    excerpt: "Building sensor-based systems to monitor environmental conditions and automate data collection."
+    excerpt: "Building systems to monitor environmental conditions and automate data collection."
 
   - image_path: /assets/images/publication.jpg
     alt: "Research & Publications"
