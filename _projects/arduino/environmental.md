@@ -5,6 +5,9 @@ layout: single
 classes: narrow
 sidebar:
   nav: "docs"
+toc: true
+  toc_label: "Unique Title"
+  toc_icon: "microchip" 
 ---
 
 <!--more-->
