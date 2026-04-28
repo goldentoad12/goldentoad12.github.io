@@ -23,6 +23,8 @@ This one was something simple I had to make for my house. The freezer was acting
 
 <img src="/assets/images/thermometer_design.png" style="width:auto; height:auto;">
 
+*[Download Schematics]({{ "/assets/pdf/thermometer_design.pdf" | relative_url }})*
+
 ## Code
 
 <script src="https://gist.github.com/matthew-d-freeman/44c9634a72150dea334ec379535902e7.js"></script>
@@ -40,13 +42,13 @@ PLACE THIS INTO THE projectsarduino.md FILE
 
 <h3>
   <a href="{{ '/projects/arduino/example/' | relative_url }}">
-    Example
+    Thermometer
   </a>
 </h3>
 
-<p>Example Description.</p>
+<p>A simple thermometer design.</p>
 
-<p><strong>Tools:</strong> Example</p>
+<p><strong>Tools:</strong> Arduino, </p>
 
 </div>
 ---
