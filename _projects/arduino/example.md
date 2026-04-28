@@ -28,6 +28,7 @@ go to https://gist.github.com/ and type in code to get a link like this:
 <script src="https://gist.github.com/matthew-d-freeman/5c2e668786754ca06523300da692564c.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/example.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Summary
 Summary Goes Here
