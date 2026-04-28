@@ -28,12 +28,14 @@ This one was something simple I had to make for my house. The freezer was acting
 <img src="/assets/images/thermometer_design.png" style="width:auto; height:auto;">
 
 *[Download Schematics]({{ "/assets/pdf/thermometer_design.pdf" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Code
 
 <script src="https://gist.github.com/matthew-d-freeman/44c9634a72150dea334ec379535902e7.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/thermometer.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Summary
 This was just a quick little project I threw together and it worked pretty well. I did learn that the Arduino Uno starts to shut down somewhere around 25*C.
