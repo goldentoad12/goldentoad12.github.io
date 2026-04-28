@@ -38,6 +38,7 @@ For this assignment I was allowed to design and construct my own project. I was 
 <script src="https://gist.github.com/matthew-d-freeman/02ef4987cf1e496b6a97063c8e18bf4c.js"></script>
 
 *[Download Arduino Code]({{ "/assets/code/environmental.ino" | relative_url }})*
+<i class="fas fa-file-pdf"></i>
 
 ## Summary
 
