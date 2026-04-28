@@ -25,3 +25,18 @@ docs:
         url: /publications/
       - title: "Resume"
         url: /resume/
+
+docs2:
+  - title: Navigation
+    image: /assets/images/arduino2.jpg
+    children:
+      - title: "About Me"
+        url: /about/
+      - title: "GIS Projects"
+        url: /projectsgis/
+      - title: "Arduino Projects"
+        url: /projectsarduino/
+      - title: "Publications"
+        url: /publications/
+      - title: "Resume"
+        url: /resume/
